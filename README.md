@@ -7,8 +7,11 @@ For creating the heat map, we used `OpenStreetMap` which is a collaborative proj
 
 ### DataFlow
 
-Filter and clean the data
-Transform the time-series data into hourly data
-Feed the transformed data into the libraries and create the heat map
+Filter and clean the data <br>
+Transform the time-series data into hourly data <br>
+Feed the transformed data into the libraries and create the heat map <br>
 
+<div id="header" align="center">
+  <img src="https://github.com/dingzehu/OpenForecast/blob/main/heatmap/interactive_map.gif" width="600"/>
+</div>
 
